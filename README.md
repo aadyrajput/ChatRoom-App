@@ -26,18 +26,3 @@ A real-time messaging application built with **Kotlin**, **Firebase**, and **Jet
 | Architecture | MVVM, LiveData, ViewModel                |
 | Tools        | Android Studio, Firebase Console         |
 
----
-
-## 📸 Screenshots
-
-> *(Add UI screenshots of chat interface, login screen, etc.)*  
-> Example:  
-> ![Chat UI](screenshots/chat_ui.png)
-
----
-
-## 🧑‍💻 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/aadyrajput/ChatRoom-App.git
